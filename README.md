@@ -3,7 +3,7 @@
 ![logo boardbox](https://user-images.githubusercontent.com/111764399/185990261-d14d6eca-a8fe-4346-8ab9-268dcb519b43.png)
 
 [Objetivo](#descrição-do-projeto)
-Criar um circuito para que um sensor LDR (Light Dependent Resistor) ao detectar luz forneça um feedback sonoro e luminoso da quantidade de luz detectada.
+Criar um circuito para que um sensor LDR (Light Dependent Resistor) ao detectar luz forneça um feedback sonoro e luminoso quando não tiver mais luz detectada.
 
 [Componentes](#descrição-do-projeto)
 - 1 Protoboard
